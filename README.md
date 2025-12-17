@@ -34,4 +34,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a healthca
 
 ## Author
 **Esther**  
-Aspiring Data Analyst | Python | SQL | Excel
+Aspiring Data Analyst | Python | SQL | Excel  
+
+🔗 LinkedIn: https://www.linkedin.com/in/oziowuh-emmanuel-654034292/  
+🐙 GitHub: https://github.com/NENE-202
